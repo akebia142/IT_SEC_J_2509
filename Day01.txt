@@ -20,5 +20,5 @@
 
 ctrl +j 터미널 여는 명령어
 왼쪽 shift+ Ins 붙여넣기
-
+git config --global user.name "akebia142"
 git config --global user.email "akebia142@gmail.com"이게 git에서 설정하는것
