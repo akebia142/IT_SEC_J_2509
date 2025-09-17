@@ -36,7 +36,7 @@ git config --global user.email "내이메일"
 
  구글은 flutter(Dart) 언어를 만들었는데, 반응이 별로임
 
- 자바 스크립트를 설치함
+ 자바 스크립트를 설치함 https://nodejs.org/ko/download
  언어도 우리가 처음부터 안만들고
  라이브러리를 설치함
 
