@@ -1,0 +1,7 @@
+Type script
+
+npm install =g ts-node typescript (타입스크립트 설치)
+npm은 nodejs(자바스크립트, 타입스크립트 프레임워크)
+계열에 모듈들을 설치해주는 명령어다
+
+저 명령어로 typescript설치와 그걸 실행해주는 기능을 설치 한것
